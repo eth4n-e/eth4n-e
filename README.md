@@ -7,7 +7,7 @@
 I'm a first year student at the University of Colorado Boulder majoring in Computer Science so hopefully in a couple of years I'll be of more help and service to the GitHub community
 and hopefully I'll make some pretty cool stuff myself for any of you to interact with.
 
-That's all for now ^—^
+That's all for now ^-^
 
 <!---
 eth4n-e/eth4n-e is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
