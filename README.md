@@ -1,13 +1,10 @@
 - 👋 Hi, I’m @eth4n-e
-- 👀 I’m interested in AI, AI art, machine learning, video game development, music, film, animation
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on anything really, I don't have much experience but I'm open to to new things
-- 📫 How to reach me etep9497@colorado.edu
+- 👀 I’m interested in UI / UX Design, Machine Learning / AI, Data Science, and Computer Systems
+- 🌱 I’m currently learning React, Handlebars and Python. I'm interested in learning TypeScript
+- 💞️ I’m actively contributing to a project for Portland Indigenous Marketplace through Blueprint Boulder and am developing an art-gallery style application in my Software Development course
+- 📫 How to reach me etep9497@colorado.edu (school email)
 
-I'm a first year student at the University of Colorado Boulder majoring in Computer Science so hopefully in a couple of years I'll be of more help and service to the GitHub community
-and hopefully I'll make some pretty cool stuff myself for any of you to interact with.
-
-That's all for now ^-^
+I'm a second year student at the University of Colorado Boulder majoring in Computer Science and minoring in Creative Technology and Design.
 
 <!---
 eth4n-e/eth4n-e is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
